@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+  <test thread-count="5" name="Test">
+    <classes>
+      <class name="com.qa.basicTestCases.SVG"/>
+      <class name="com.qa.basicTestCases.CropImage"/>
+      <class name="com.qa.basicTestCases.ExcelPractise"/>
+      <class name="com.qa.basicTestCases.CharSequenceInString"/>
+      <class name="com.qa.basicTestCases.LinkBrokenOrNot"/>
+      <class name="com.qa.basicTestCases.HandlingSVG2"/>
+      <class name="com.qa.basicTestCases.SendEmail"/>
+      <class name="com.qa.basicTestCases.HandlingSVGtag"/>
+      <class name="com.qa.basicTestCases.BrokenLinksTest"/>
+      <class name="com.qa.basicTestCases.WebTableHandling"/>
+      <class name="com.qa.basicTestCases.RightClickConcept"/>
+      <class name="com.qa.basicTestCases.MultipleLinkTestBrokenOrNot"/>
+      <class name="com.qa.basicTestCases.CssSelecor"/>
+      <class name="com.qa.basicTestCases.sql"/>
+      <class name="com.qa.basicTestCases.SVGTags"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
